@@ -1,0 +1,43 @@
+.Emi{
+    font-family: 'Raleway', sans-serif;
+    color: gray;
+    font-size: 50px;
+    position: relative;
+    top: 150px;
+ }
+ 
+ .HOME {
+    font-family: 'Raleway', sans-serif;
+    color: gray;
+    position: relative;
+    left: 20px;
+ }
+ div{
+    position: relative;
+    left: 20px;
+ }
+ #contact{
+     color: black;
+     font-family: 'Raleway', sans-serif;
+     position: relative;
+     top: 100px;
+     font-size: 70px;
+     font-weight: bold;
+ }
+ h2{
+     color: black;
+     font-family: 'Raleway', sans-serif;
+     font-weight: bolder;
+ }
+ a{
+    color:black;
+    font-family: 'Raleway', sans-serif;
+}
+#songs{
+    color:black;
+    font-family: 'Raleway', sans-serif;
+}
+h4{
+    font-family: 'Raleway', sans-serif;
+    font-size: 10px; 
+}
